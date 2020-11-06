@@ -24,7 +24,7 @@ Para fazer este curso, é importante que você tenha algum conhecimento de progr
 
 Se quiser aprender a usar o Git e o GitHub.com de forma satisfatória, recomendo o curso abaixo:
 
-[![Curso de Git e GitHub sem usar comandos do terminal: ](https://lh5.googleusercontent.com/hImN-LhhdbiXvsM9Ed5fRLU2KW-74iGS0bH-Qqf2gkVG1OFA5IzcTM_UBgwLKh54aFCqS236OqlgjB7WaRIruBFJQAPQNByuoScHaIR-va2820P5hGp0=w1280)](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
+&rarr; [Curso de Git e GitHub sem usar comandos do terminal](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
 
 > Seguindo as dicas do curso acima, nas práticas, usarei o [GitHub Destop](https://desktop.github.com/) para fazer o versionamento do aplicativo, dada a sua "intimidade" com o GitHub.com e também para evita a digitação de comandos no console do Git. Claro que, quem quiser, pode usar a CLI para o Git, sem problemas.
 
@@ -62,6 +62,16 @@ Também teremos uma área restrita para assinantes cadastrados e logados, para q
 		- Database → Firebase Cloud Firestore 8.13.1
 
 ## Lista de Branches (Aulas)
+
+> As aulas **01 Visão Geral** e **02 Preparação do Ambiente** não possuem branchs associados porque não ocorreram edições no código do site, Você pode ver a descrição destas aulas no diretório "aulas" do branch "master".
+
+#### 03_Criando_o_Aplicativo
+
+Este branch contém o aplicativo Angular recém criado, sem modificações.
+
+#### 04_Primeiras_Paginas
+
+Neste branch está os primeiros procedimentos de criação do nosso aplicativo, como a criação das primeiras páginas e rotas.
 
 ## Contribuindo
 
