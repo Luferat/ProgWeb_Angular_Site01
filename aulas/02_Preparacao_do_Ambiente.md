@@ -108,6 +108,8 @@ O uso de pendrives e HDs externos não é recomendado, a não ser que você tenh
 
 Como veremos o Angular só "gera" o "front-end" da aplicação Web, assim, vamos precisar de um "back-end" que forneça um banco de dados confiável, além de outras ferramentas "serve-side". Usaremos neste projeto os serviços da plataforma [Firebase.com](https://firebase.com/) do Google que é acessível via API JavaScript e já entrega o "back-end" praticamente pronto.
 
+> *Firebase é uma plataforma desenvolvida pelo Google para a criação de aplicativos móveis e da web. Originalmente, era uma empresa independente fundada em 2011. Em 2014, o Google adquiriu a plataforma e agora é sua principal oferta para o desenvolvimento de aplicativos. [Wikipedia (inglês)](https://en.wikipedia.org/wiki/Firebase)*
+
 Se você já tem uma conta no Gmail ou outro serviço do Google, já tem acesso ao "Console do Firebase". Se não tem, crie um Gmail...
 
 ### GitHub
