@@ -69,10 +69,6 @@ Também teremos uma área restrita para assinantes cadastrados e logados, para q
 
 Este branch contém o aplicativo Angular recém criado, sem modificações.
 
-#### [04_Primeiras_Paginas](https://github.com/Luferat/ProgWeb_Angular_Site01/blob/master/aulas/04_Primeiras_Paginas.md)
-
-Neste branch está os primeiros procedimentos de criação do nosso aplicativo, como a criação das primeiras páginas e rotas.
-
 ## Contribuindo
 
 Existem várias formas de contribuir, mas, a principal é fazendo um "fork", clonando no seu PC local e testando o aplicativo. Corrija bugs, otimize o código e a documentação, implemente novos recursos...
