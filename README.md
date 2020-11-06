@@ -63,13 +63,13 @@ Também teremos uma área restrita para assinantes cadastrados e logados, para q
 
 ## Lista de Branches (Aulas)
 
-> As aulas **01 Visão Geral** e **02 Preparação do Ambiente** não possuem branchs associados porque não ocorreram edições no código do site, Você pode ver a descrição destas aulas no diretório "aulas" do branch "master".
+> As aulas **[01 Visão Geral](https://github.com/Luferat/ProgWeb_Angular_Site01/blob/master/aulas/01_Visao_Geral.md)** e **[02 Preparação do Ambiente](https://github.com/Luferat/ProgWeb_Angular_Site01/blob/master/aulas/02_Preparacao_do_Ambiente.md)** não possuem branchs associados porque não ocorreram edições no código do site, Você pode ver a descrição destas aulas no diretório "aulas" do branch "master".
 
-#### 03_Criando_o_Aplicativo
+#### [03_Criando_o_Aplicativo](https://github.com/Luferat/ProgWeb_Angular_Site01/blob/master/aulas/03_Criando_o_Aplicativo.md)
 
 Este branch contém o aplicativo Angular recém criado, sem modificações.
 
-#### 04_Primeiras_Paginas
+#### [04_Primeiras_Paginas](https://github.com/Luferat/ProgWeb_Angular_Site01/blob/master/aulas/04_Primeiras_Paginas.md)
 
 Neste branch está os primeiros procedimentos de criação do nosso aplicativo, como a criação das primeiras páginas e rotas.
 
