@@ -1,1 +1,106 @@
-/* You can add global styles to this file, and also import other style files */
+/* 4.1) Reset básico do CSS */
+
+* {
+    box-sizing: border-box;
+    outline: none;
+}
+
+html, body {
+    position: relative;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    font-family: sans-serif;
+    font-size: 16px;
+    background: #ddd;
+    color: #333;
+}
+
+header, nav, main, footer, aside {
+    position: relative;
+    display: block;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: steelblue;
+}
+
+a:hover {
+    color: orangered;
+}
+
+/* 4.2) Páginas responsivas com 1/2 colunas */
+
+.page-row {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+}
+
+.page-div {
+    background: #fff;
+    flex-grow: 1;
+    padding: .5rem;
+    margin-bottom: .4rem;
+}
+
+.page-aside {
+    background: #ddd;
+    padding: .5rem;
+}
+
+.page-div h2:first-child, .page-aside h3:first-child {
+    margin: 0;
+}
+
+@media (min-width: 576px) {
+    .page-row {
+        flex-direction: row;
+    }
+    .page-div {
+        margin-bottom: 0;
+        margin-right: .4rem;
+    }
+    .page-aside {
+        min-width: 150px;
+        max-width: 180px;
+    }
+}
+
+/* 4.2) Botões */
+
+button.primary {
+    font-family: inherit;
+    font-size: 0.9rem;
+    padding: 0.5rem;
+    border-radius: 0.3rem;
+    border: none;
+}
+
+button.primary {
+    background: linear-gradient(rgb(31, 70, 102), rgb(103, 164, 214));
+    color: #fff;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+button.primary:hover {
+    background: linear-gradient(rgb(170, 45, 0), rgb(246, 125, 81));
+}
+
+button.block {
+    display: block;
+    width: 95%;
+    margin: auto;
+}
+
+button.center {
+    display: table;
+    margin: auto;
+}
