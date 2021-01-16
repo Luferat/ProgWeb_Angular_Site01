@@ -26,7 +26,7 @@ Se quiser aprender a usar o Git e o GitHub.com de forma satisfatória, recomendo
 
 &rarr; [Curso de Git e GitHub sem usar comandos do terminal](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
 
-> Seguindo as dicas do curso acima, nas práticas, usarei o [GitHub Destop](https://desktop.github.com/) para fazer o versionamento do aplicativo, dada a sua "intimidade" com o GitHub.com e também para evita a digitação de comandos no console do Git. Claro que, quem quiser, pode usar a CLI para o Git, sem problemas.
+> Seguindo as dicas do curso acima, nas práticas, usarei o [GitHub Destop](https://desktop.github.com/) para fazer o versionamento do aplicativo, dada a sua "intimidade" com o GitHub.com e também para evitar a digitação de comandos no console do Git. Claro que, quem quiser, pode usar a CLI para o Git, sem problemas.
 
 ## Sobre o Angular
 
